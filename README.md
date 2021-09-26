@@ -1,5 +1,6 @@
 # Top Richest Person in the World
 ## Live Server link:
+ https://richest-person.netlify.app/
 
 ## About this site:
 - most richest person in the world
