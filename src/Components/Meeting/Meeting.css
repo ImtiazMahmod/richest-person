@@ -1,0 +1,23 @@
+.meeting-detail {
+    display: flex;
+    gap: 5px;
+    margin: 10px;
+    background-color: #00A19D;
+    padding: 10px;
+    align-items: center;
+    border-radius: 10px;
+    color: #FFF8E5;
+}
+
+.meeting-detail h3 {
+    font-weight: 400;
+    margin-left: 10px;
+}
+
+.meeting-thumb {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    border-radius: 10px;
+}

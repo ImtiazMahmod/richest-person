@@ -1,0 +1,12 @@
+.richest-person {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    gap: 50px;
+    margin: 50px;
+}
+
+.all-person {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 40px;
+}
